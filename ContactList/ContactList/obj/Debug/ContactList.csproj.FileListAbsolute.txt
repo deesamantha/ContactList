@@ -1,0 +1,9 @@
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\bin\Debug\ContactList.exe.config
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\bin\Debug\ContactList.exe
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\bin\Debug\ContactList.pdb
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.csprojResolveAssemblyReference.cache
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.Form1.resources
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.Properties.Resources.resources
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.csproj.GenerateResource.Cache
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.exe
+C:\Users\Samantha\Desktop\DeeSamantha_Assignment2\ContactList\ContactList\obj\Debug\ContactList.pdb
